@@ -1,1 +1,1 @@
-
+This Project is to achieve variable speed of motor by changing the firing angle. This will change the voltage accross the motor thus the speed of the motor.
