@@ -1,1 +1,21 @@
-This Project is to achieve variable speed of motor by changing the firing angle. This will change the voltage accross the motor thus the speed of the motor.
+Description:
+This project focuses on demonstrating a basic method for controlling the speed of a DC motor using a fully controlled rectifier circuit. The speed control is achieved by manually adjusting the firing angle of the thyristors in the rectifier, which directly affects the voltage applied to the motor.
+
+Key Components:
+
+DC Motor Model: Represents the motor system.
+Fully Controlled Rectifier Circuit: Consisting of thyristors and diodes for voltage regulation.
+Manual Control Interface: Allows the user to adjust the firing angle of the thyristors manually.
+Project Workflow:
+
+Setup: Connect the DC motor model to the fully controlled rectifier circuit.
+Manual Firing Angle Adjustment: Use the control interface to modify the firing angle of the thyristors.
+Voltage Variation: Observe how changes in the firing angle affect the voltage waveform and subsequently the motor speed.
+Speed Observation: Monitor the motor's speed as the firing angle is adjusted.
+Experimentation: Explore different firing angles to understand their impact on motor speed and behavior.
+Benefits and Applications:
+
+Introduction to speed control: Provides a hands-on experience of basic DC motor speed control principles.
+Educational tool: Helps users grasp the concept of firing angle modulation for speed regulation.
+DIY project: Offers an accessible and simple project for hobbyists and students interested in motor control.
+Sharing this project on GitHub allows others to learn about the fundamentals of DC motor speed control using fully controlled rectifiers. While the control aspect is manual in this project, it serves as a foundation for more advanced control implementations in future projects.
